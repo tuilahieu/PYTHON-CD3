@@ -25,6 +25,8 @@ def xep_loai(diem):
 
 df["XepLoai"] = df["DiemTB"].apply(xep_loai)
 
+# print(df[["MaSV", "Lop", "GioiTinh", "DiemTB", "XepLoai"]])
+
 # Tạo pivot table theo lớp và xếp loại
 pivot1 = pd.pivot_table(
     df,

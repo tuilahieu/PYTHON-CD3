@@ -10,7 +10,7 @@ df["DiemTB"] = (
     + 0.5 * df["DiemCK"]
 )
 
-# Tổng hợp theo lớp
+# dataframe
 tonghop = df.groupby("Lop")["DiemTB"].agg(
     SoLuong="count",
     TrungBinh="mean",

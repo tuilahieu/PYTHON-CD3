@@ -1,0 +1,20 @@
+[
+  {
+    "MaSP": "SP01",
+    "TenSP": "Bút bi Thiên Long",
+    "NhomHang": "Văn phòng phẩm",
+    "Gia": 5000
+  },
+  {
+    "MaSP": "SP02",
+    "TenSP": "Vở 200 trang",
+    "NhomHang": "Văn phòng phẩm",
+    "Gia": 12000
+  },
+  {
+    "MaSP": "SP03",
+    "TenSP": "Chuột máy tính",
+    "NhomHang": "Thiết bị điện tử",
+    "Gia": 250000
+  }
+]
